@@ -9,7 +9,7 @@ zziyyung/zziyyung is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-[![zziyyung's github status](https://github-readme-status.vercel.app/api?username=zziyyung)](https://github.com/anuraghazra/github-readme-status)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zziyyung)](https://github.com/anuraghazra/github-readme-status)
 
-[![Top Langs](http://github-readme-status.vercel.app/api/top-langs/?username=zziyyung&layout=compact)](https://github.com/anuraghazra/github-readme-status)
+[![Top Langs](http://github-readme-stats.vercel.app/api/top-langs/?username=zziyyung&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
