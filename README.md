@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @zziyyung
-- 👀 I’m interested in economy,health and data
-- 🌱 I’m currently learning Python , Numpy , Pandas , Html , Css , JavaScript, Django , Apache Hadoop , Apache Spark, MySQL , Oracle , Elasticsearch , Logstash , Kibana
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jy99919@naver.com
+
 
 <!---
 zziyyung/zziyyung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
