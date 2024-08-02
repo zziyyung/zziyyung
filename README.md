@@ -1,3 +1,3 @@
 <p align="center">
-  ![image](https://github.com/user-attachments/assets/898a0329-242a-480c-8814-6de768310cc4)
+  <img src="![image](https://github.com/user-attachments/assets/042aa7d1-e7aa-40dd-a831-663458b917b4)">
 </p>
